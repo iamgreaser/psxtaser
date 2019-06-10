@@ -1,0 +1,8 @@
+# Output
+*.o
+*.elf
+
+# VIM
+.sw?
+.*.sw?
+
